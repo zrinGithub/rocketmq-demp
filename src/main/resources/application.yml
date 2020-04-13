@@ -2,5 +2,6 @@
 customization:
   rocketMq:
     nameServerAddr: 192.168.199.101:9876
+    payTopic: pay_test_v1
 server:
   port: 8080
